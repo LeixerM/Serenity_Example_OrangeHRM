@@ -1,5 +1,5 @@
 # Reto_Choucair2024
-Se realiza automatización con Screenplay en la pagina Orange HRM , reto tecnico Choucair
+Se realiza automatización con Screenplay en la pagina Orange HRM
 ---------------------------------------------------------------------------------------
 Para ejecutar el proyecto limpiamente utilizar el siguiente codigo desde la terminal 
 > ./gradlew clean test
